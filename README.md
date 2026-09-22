@@ -1,2 +1,3 @@
-# PSP-Console-Emulator-Collection
-PSP Console Emulator Collection
+## PSP平台模拟器整理
+
+* 整理的并不全，只是基于个人爱好，整理了本人使用的模拟器，全都是原版模拟器，没进行任何篡改，内部设置基于个人爱好进行了设置，可以恢复默认设置，绝大多数已经找不到源发布地址。有需要自行搜索吧。
